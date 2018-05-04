@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    margin-top: 74px;
+    line-height: 64px;
+    color: #021841;
+    font-size: 20px;
+}
+.second_title{
+    width: 1200px;
+    height: 53px;
+    margin: 0 auto;
+}
+.second_title .text:first-child{
+    margin-left: 360px;
+}
+.second_title .text{
+    text-align: center;
+    line-height: 53px;
+    color: #262123;
+    font-size: 12px;
+}
+.small-left{
+    margin-left: 40px;
+}
+
+.imageBox{
+    width: 1140px;
+    margin: 0 auto;
+}
+.imageBox img{
+    float: left;
+}
+#header .navbar div:nth-child(2){
+    border-bottom: 4px solid red!important;
+}
